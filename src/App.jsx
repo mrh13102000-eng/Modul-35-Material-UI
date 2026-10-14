@@ -1,7 +1,7 @@
-import Login from './components/Login.jsx';
+import CreateUserBox from './components/CreateUserBox.jsx';
 
 function App() {
-  return <Login />;
+  return <CreateUserBox />;
 }
 
 export default App;
